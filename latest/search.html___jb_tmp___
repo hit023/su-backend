@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>CV</title>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+
+    <script  type="text/javascript" src="cv_search.js"></script>
+
+
+
+</head>
+
+<body>
+
+<div id="header">
+    <p>Search:<input type="text" id="Search" name="Search"> <input type="button" id="button" value="submit"></p>
+</div>
+<div id="main"></div>
+
+
+</body>
+</html>
